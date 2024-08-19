@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage 
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Tasker.MVVM.Views.LandingPage"
+    Title="Landing Page">
+
+    <Grid Padding="20">
+        <VerticalStackLayout Spacing="20" VerticalOptions="CenterAndExpand">
+            <Label Text="Plan Your Day, Own Your Time" FontSize="Large" FontAttributes="Bold" />
+            <Button Text="Veiw Tasks" Clicked="ViewPlansButton_Clicked"/>
+            <!--<Button Text="Create New Plan" Clicked="CreateNewPlanButton_Clicked"/>-->
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>
