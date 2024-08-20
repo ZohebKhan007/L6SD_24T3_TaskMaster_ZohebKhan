@@ -14,10 +14,8 @@ PropertyChanged.Fody 4.1.0 by Simon Cropp
 Microsot.Maui.Controls 8.0.61 by Misrosoft
 
 # Cloning 
-Clone the repository
+1. Clone the repository
 git clone https://github.com/MaxFairfield/L6SD_24T3_Taskmaster_ZohebKhan
-Formatting the project Ensure that the contents of this repository is in the secondary folder for the project which is in the same location as the solution file. This repository does NOT include a solution file, Visual Studio will either create one or update an existing one upon trying to run the app.
-
-Open the project in Visual Studio via the .sln file.
-
-Now you should be able to run the app as usual, using the green arrows at the top of the UI in Visual Studio.
+2. Formatting the project Ensure that the contents of this repository is in the secondary folder for the project which is in the same location as the solution file.This repository does NOT include a solution file, Visual Studio will either create one or update an existing one upon trying to run the app.
+3. Open the project in Visual Studio via the .sln file.
+4. Now you should be able to run the app as usual, using the green arrows at the top of the UI in Visual Studio.
